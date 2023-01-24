@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e124e83.css",
+    "main.js": "/static/js/main.65f110d7.js",
+    "static/media/landing_page_img.webp": "/static/media/landing_page_img.30cdc0e7556a3219e379.webp",
+    "static/media/AddPhoto.svg": "/static/media/AddPhoto.d40062421f1936f04b8daa7cc43786b1.svg",
+    "static/media/Instagram.svg": "/static/media/Instagram.3c3e45467af9d33094743b4bb29958f7.svg",
+    "static/media/Delete.svg": "/static/media/Delete.d57585b8833ca572bbe2909534653866.svg",
+    "static/media/Cart.svg": "/static/media/Cart.9c864d245e16e6d3fd7775a714aece15.svg",
+    "static/media/Cart2.svg": "/static/media/Cart2.6b9b9892f1fb6464ce326d6236c57991.svg",
+    "index.html": "/index.html",
+    "static/media/Facebook.svg": "/static/media/Facebook.3343a5ccd601036f9c6e4e88a77f7bcf.svg",
+    "static/media/Search.svg": "/static/media/Search.2aa9d5a321531abfabdcbc3c902fce2c.svg",
+    "static/media/Cross.svg": "/static/media/Cross.559fe10c0d2f9d8a93f7895fb46b8765.svg",
+    "static/media/Edit.svg": "/static/media/Edit.61430797dd6f9c48fc549a7d2053aaec.svg",
+    "static/media/Arrow.svg": "/static/media/Arrow.4512a2751f22029e476438108cbf7d4f.svg",
+    "static/media/ImgsArrow.svg": "/static/media/ImgsArrow.fd2fbbad2072218353dc4ee3dc56d1d1.svg"
+  },
+  "entrypoints": [
+    "static/css/main.3e124e83.css",
+    "static/js/main.65f110d7.js"
+  ]
+}
